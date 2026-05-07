@@ -78,4 +78,3 @@ Most suites use:
 - Keep routing tables explicit and near the top of `SKILL.md`.
 - Update routing and catalog/library content together.
 - Validate `.claude-plugin/plugin.json` and `.claude-plugin/marketplace.json` before submitting.
-
