@@ -1,0 +1,21 @@
+{
+  "name": "super-skills",
+  "owner": {
+    "name": "Yoshi"
+  },
+  "metadata": {
+    "description": "Eleven domain super-skills bundling 430+ specialist skills under single intent-driven triggers. Demonstrates two super-skill architectures: consolidated catalog and library/dispatcher.",
+    "version": "1.0.0",
+    "license": "MIT"
+  },
+  "plugins": [
+    {
+      "name": "super-skills",
+      "source": {
+        "source": "github",
+        "repo": "REPLACE_WITH_YOUR_USERNAME/super-skills"
+      },
+      "description": "Marketing, coding, design, devops, purple-team security, founders, gaming, research, productivity — 11 super-skills, 430+ sub-skills, two architecture patterns."
+    }
+  ]
+}

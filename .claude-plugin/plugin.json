@@ -1,0 +1,27 @@
+{
+  "name": "super-skills",
+  "version": "1.0.0",
+  "description": "Eleven domain super-skills (marketing, coding, design, devops, security, finance, gaming, research, productivity, founder ops) that bundle 430+ specialist skills behind a single intent-driven trigger. Two architecture patterns — catalog (consolidated) and library (dispatcher + standalone files) — both demonstrated.",
+  "author": {
+    "name": "Yoshi"
+  },
+  "homepage": "",
+  "repository": "",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "super-skill",
+    "claude-code",
+    "cowork",
+    "marketing",
+    "coding",
+    "devops",
+    "design",
+    "security",
+    "purple-team",
+    "research",
+    "productivity",
+    "agent-skills",
+    "ai-agents"
+  ]
+}
